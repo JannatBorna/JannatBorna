@@ -1,6 +1,6 @@
 ### Hi there 👋, Hey, I am Dilruba Jannat Borna.
 #### MERN stack Developer
-![MERN stack Developer](https://github.com/JannatBorna/JannatBorna/blob/main/IMG_20211121_181857.jpg)
+![MERN stack Developer](https://github.com/JannatBorna/JannatBorna/blob/main/I'm%20Dilruba%20Jannat%20Borna%20(2).png)
 
 I am an enthusiastic JavaScript developer with knowing some frameworks for the frontend and the backend. I MERN developer. 
 
