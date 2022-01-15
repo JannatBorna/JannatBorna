@@ -1,4 +1,4 @@
-### Hi there 👋, Hey, I am Dilruba Jannat Borna.
+### Hi there 👋, Hey, 
 #### MERN stack Developer
 ![MERN stack Developer](https://github.com/JannatBorna/JannatBorna/blob/main/banner.png)
 
