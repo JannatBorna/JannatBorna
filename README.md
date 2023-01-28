@@ -9,7 +9,7 @@ Skills:  REACT / JS / HTML / CSS
 - 🔭 I’m currently working on E-commerce 
 - 🌱 I’m currently learning React-native 
 - 💬 Ask me about Javascript, React, Nodejs 
-- 📫 How to reach me: bornajannat12@gmail.com 
+- 📫 How to reach me: borna.dilruba@gmail.com 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/JannatBorna)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/dilruba-jannat-borna-09147b216//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@jannat-borna)  
