@@ -1,4 +1,4 @@
-![MasterHead](https://media.licdn.com/dms/image/C4E12AQGCWDIkqZ_x2A/article-cover_image-shrink_720_1280/0/1642425545585?e=1726099200&v=beta&t=40_26KOd6IGKHWV5SzllB6cAeM75DrQ_9ckVxdkEMkQ)
+![MasterHead]
 <h1 align="center">Hi 👋, I'm Dilruba Jannat Borna</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh/Finland</h3>
 <img src="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" />
